@@ -1,3 +1,5 @@
+# EA Automation Scripts — Python for C-Suite Operations
+Built by Paramita Dhar Chaudhury | Remote Systems EA | $22/hr EST
 ### 1. Revenue Merge — `EA3_revenue_merge.py`
 **Problem:** Founder gets paid via Stripe, PayPal, Bank. Monthly totals take 45 mins in Excel. 
 **Solution:** Merges 3 CSVs, groups by client, sums revenue. 10 seconds.
